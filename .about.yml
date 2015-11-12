@@ -1,0 +1,21 @@
+---
+name: Content 
+full_name: Content Guild
+mission: 'Integrate content strategy into all 18F projects. Promote painless, concise, and elegant writing.'
+private:
+  charter: https://docs.google.com/document/d/1mI95lwVCjJKDwYTvDsBLlo6rmuJ0SgzHr_gqYfXJd40/edit
+  okrs: https://docs.google.com/document/d/1cBq46G5hR1n1gvcpMnfEDk_CYarCAZI5yDdkcFGmyyo/edit#heading=h.kjh38tw098vr
+  slack: g-content
+  meeting_agendas: https://drive.google.com/a/gsa.gov/folderview?id=0B7vH0DMe7wXANTJqdUxNQmZzZzQ&usp=sharing
+leads:
+- emileigh
+- kate
+members:
+- andre
+- andrewmaier
+- britta.gustafson
+- greg
+- jameshupp
+- jhunter
+- nicole.fenton
+- tadhg
