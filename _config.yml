@@ -43,9 +43,9 @@ navigation:
   internal: false
 
 repos:
-- name: 18F Agile Design Working Group
+- name: 18F Content Guild
   description: Main repository
-  url: https://github.com/18F/wg-agiledesign
+  url: https://github.com/18F/g-content
 
 back_link:
   url: "https://pages.18f.gov/"
