@@ -2,16 +2,20 @@
 title: Introduction
 ---
 
-## Who are we?
+## Who we are
 
-We are a [guild](https://pages.18f.gov/grouplet-playbook/guilds/) dedicated to
-uncovering the nuts and bolts of planning, managing, executing and
-communicating design in an agile team.
+We promote concise, elegant, user-centered content. We plan for the creation, publication, and governance of useful, usable content.
 
-## What do we do/what have we done?
 
-We maintain the ...
+## What we've done, and what we're working on
 
-## Where are we/how can you reach us?
+- A thoughtful, accessible [content style guide](https://pages.18f.gov/content-guide/)
+- Clarification of 18F’s editorial goals and alignment with other digital services groups
+- A consistent “chain of custody” for how content moves through conception, ideation, development, publication, and governance across projects
+- A content framework for our delivery team
 
-Our 18F Slack channel is #g-content. We hold regular meetings on...
+
+
+## How you can reach us
+
+Our 18F Slack channel is #g-content.
