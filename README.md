@@ -8,6 +8,8 @@ This repository includes [a bit of metadata](https://github.com/18F/g-content/bl
 
 ## Our projects
 [Content Guide](https://github.com/18F/content-guide)
+[The Writing Lab](https://18f.gsa.gov/2016/01/22/18f-writing-lab/)
+[The Writing Lab Guide](https://pages.18f.gov/writing-lab-guide/)
 
 ## Public domain
 
