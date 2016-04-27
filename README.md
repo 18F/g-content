@@ -7,9 +7,10 @@ For context: an [18F Guild](https://pages.18f.gov/grouplet-playbook/guilds/) is 
 This repository includes [a bit of metadata](https://github.com/18F/g-content/blob/18f-pages/.about.yml) about our guild in a standard format that other 18F projects can interpret (see the [.about.yml project](https://github.com/18F/about_yml)).
 
 ## Our projects
-[Content Guide](https://github.com/18F/content-guide)
-[The Writing Lab](https://18f.gsa.gov/2016/01/22/18f-writing-lab/)
-[The Writing Lab Guide](https://pages.18f.gov/writing-lab-guide/)
+
+* [Content Guide](https://github.com/18F/content-guide)
+* [The Writing Lab](https://18f.gsa.gov/2016/01/22/18f-writing-lab/)
+* [The Writing Lab Guide](https://pages.18f.gov/writing-lab-guide/)
 
 ## Public domain
 
