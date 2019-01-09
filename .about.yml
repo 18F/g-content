@@ -1,22 +1,60 @@
 ---
-name: Content 
+name: Content
+
 full_name: Content Guild
-mission: 'Integrate content strategy into all 18F projects. Promote painless, concise, and elegant writing.'
+
+mission: 'Integrate content strategy into all 18F projects. Promote user-centered, concise, and elegant writing.'
+
+status: active
+testable: false
+description: >
+  We champion content strategy and user-centered design practices at 18F.
+stage: live
+owner_type: guild
+
+impact: Informing the design process, helping the public understand government processes, and winning plain language awards.
+
 private:
   charter: https://docs.google.com/document/d/1mI95lwVCjJKDwYTvDsBLlo6rmuJ0SgzHr_gqYfXJd40/edit
   okrs: https://docs.google.com/document/d/1cBq46G5hR1n1gvcpMnfEDk_CYarCAZI5yDdkcFGmyyo/edit#heading=h.kjh38tw098vr
   slack: g-content
   meeting_agendas: https://drive.google.com/a/gsa.gov/folderview?id=0B7vH0DMe7wXANTJqdUxNQmZzZzQ&usp=sharing
-leads:
-- emileigh
-- kate
-members:
-- andre
-- andrewmaier
-- britta.gustafson
-- greg
-- jameshupp
-- jhunter
-- nicole.fenton
-- tadhg
-owner_type: guild
+
+team:
+- github: emileigh
+  role: lead
+- github: kate
+  role: lead
+- github: awfrancisco
+  role: contributor
+- github: andrewmaier
+  role: contributor
+- github: brittag
+  role: contributor
+- github: coreycaitlin
+  role: contributor
+- github: gboone
+  role: contributor
+- github: jameshupp
+  role: contributor
+- github: jeanninehunter
+  role: contributor
+- github: nicoleslaw
+  role: contributor
+- github: ryansibley
+  role: contributor
+- github: tadhg-ohiggins
+  role: contributor
+
+blogTag: content design
+
+tags: content strategy, design, writing, editorial planning
+
+links:
+- url: https://pages.18f.gov/content-guide/
+  text: 18F Content Guide
+
+licenses:
+  dashboard:
+    name: CC0-1.0
+    url: https://github.com/18F/g-content/blob/18f-pages/LICENSE.md
